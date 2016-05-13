@@ -2,11 +2,11 @@
 
 ## SCOPE
 
-This Privacy Policy describes how information is collected and used in connection with the stori.es platform service offered by Consumers Union of United States, Inc. (“CU,” “we” or “us”), a not-for-profit corporation.   In this Privacy Policy, “you” and “your” refer to each Authorized User of the Service.  Capitalized terms in this Privacy Policy, to the extent that they are not defined herein, are defined in the stori.es Beta Release Software as a Service (“SaaS”) Agreement [ TODO ].
+This Privacy Policy describes how information is collected and used in connection with the stori.es platform service offered by Consumers Union of United States, Inc. (“CU,” “we” or “us”), a not-for-profit corporation.   In this Privacy Policy, “you” and “your” refer to each Authorized User of the Service.  Capitalized terms in this Privacy Policy, to the extent that they are not defined herein, are defined in the stori.es Beta Release Software as a Service (“SaaS”) Agreement [ https://github.com/stori-es/stori_es-policy/blob/master/stori_es-software_as_a_service_agreement.md ].
 
 ## YOUR CONSENT TO THIS PRIVACY POLICY
 
-This Privacy Policy is incorporated into and subject to our Terms of Service [ TODO ].  By using the Service you consent to our Terms of Service and Privacy Policy, including our use and disclosure of your personal information as delineated in this Privacy Policy.
+This Privacy Policy is incorporated into and subject to our Terms of Service [ https://github.com/stori-es/stori_es-policy/blob/master/stori_es-terms_of_service.md ].  By using the Service you consent to our Terms of Service and Privacy Policy, including our use and disclosure of your personal information as delineated in this Privacy Policy.
 
 ## INFORMATION WE COLLECT, HOW WE COLLECT IT AND HOW WE USE IT
 
@@ -107,7 +107,7 @@ CU is a New York not-for-profit organization headquartered in Yonkers, New York,
 
 ## CHANGES TO THIS PRIVACY POLICY
 
-This Privacy Policy may be amended from time to time.  The most recent version of this Privacy Policy will always be posted on our Service at [ TODO ], with the “Effective Date” posted at the bottom.  We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new products and services or change existing ones.  If we make any material changes to our Privacy Policy or how we handle your PII, you will know because the Effective Date of the Privacy Policy will change.  If we are going to use any PII in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change.  If you do not consent your PII information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information.   If we make a significant or material change in the way we use your PII, we will make you aware by prominently posting a notice on our Service 30 days in advance of such material change.  By using our Service after the Effective Date of such material changes, you are deemed to consent to our then current privacy policy, provided that we will obtain your affirmative consent where legally required.
+This Privacy Policy may be amended from time to time.  The most recent version of this Privacy Policy will always be posted on our Service at [ https://github.com/stori-es/stori_es-policy/blob/master/stori_es-privacy_policy.md ], with the “Effective Date” posted at the bottom.  We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new products and services or change existing ones.  If we make any material changes to our Privacy Policy or how we handle your PII, you will know because the Effective Date of the Privacy Policy will change.  If we are going to use any PII in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change.  If you do not consent your PII information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information.   If we make a significant or material change in the way we use your PII, we will make you aware by prominently posting a notice on our Service 30 days in advance of such material change.  By using our Service after the Effective Date of such material changes, you are deemed to consent to our then current privacy policy, provided that we will obtain your affirmative consent where legally required.
 
 ## HOW TO CONTACT US ABOUT PRIVACY
 
@@ -125,4 +125,4 @@ If you feel that we have not followed our Privacy Policy, please let us know.  A
 Any disputes regarding this Privacy Policy are subject to our Terms of Service and will be governed by the laws of the State of New York, applicable to agreements made and performed there.
 
 Effective Date: May 14, 2013  
-Last Updated: May 5, 2016
+Last Updated: May 13, 2016

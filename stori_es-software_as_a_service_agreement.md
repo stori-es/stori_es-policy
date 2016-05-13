@@ -29,7 +29,7 @@ This BETA RELEASE SOFTWARE AS A SERVICE AGREEMENT (this “Agreement”), entere
 **“Permission”** means the terms and conditions governing the uses of Recipient Content (such as a story) submitted by an End User through the Service. The specific terms and conditions of Permissions are the sole responsibility of Recipient.
 </li>
 <li>
-**“Privacy Policy”** means the online privacy notice that applies to the Service currently available at [ TODO ] as it may be updated by CU from time to time.
+**“Privacy Policy”** means the online privacy notice that applies to the Service currently available at [ https://github.com/stori-es/stori_es-policy/blob/master/stori_es-privacy_policy.md ] as it may be updated by CU from time to time.
 </li>
 <li>
 **“Recipient Content”** means a story or stories and all other data and information in any format, including, without limitation, text, images or other materials, created or supplied by Recipient or an End User through use of the Service or Optional Software.
@@ -56,7 +56,7 @@ This BETA RELEASE SOFTWARE AS A SERVICE AGREEMENT (this “Agreement”), entere
 **“Term”** is defined in Section 19(a).
 </li>
 <li>
-**“Terms of Service”** means the online policy currently available at [ TODO ] as it may be updated by CU from time to time.
+**“Terms of Service”** means the online policy currently available at [ https://github.com/stori-es/stori_es-policy/blob/master/stori_es-terms_of_service.md ] as it may be updated by CU from time to time.
 </li>
 <li>
 **“Updates”** means any updates that CU, at its sole discretion, decides will be incorporated into the Service or the Optional Software after the Effective Date, including any upgrades, enhancements, modifications, error corrections or bug fixes, additional features and functions.
@@ -191,3 +191,6 @@ Published information from Consumer Reports, including our Ratings and Reports, 
 Unauthorized use of our material may violate multiple legal rights of Consumer Reports. All of Consumer Reports’ products are fully protected under the United States Copyright Laws, 17 U.S.C. §§ 101 et seq., and unauthorized copying of, or quoting from, our materials is strictly prohibited. Consumer Reports® and other trademarks of our organization are federally registered trademarks. Advertising that deceptively or falsely misrepresents our findings, or that creates confusion, infringes on our rights under the Lanham Act, 15 U.S.C., §§1051 et seq. Such advertising may also contravene our rights under state laws prohibiting false advertising and other unfair trade practices. Furthermore, under §397 of the New York State General Business Law, the use of the names or published results of a nonprofit testing organization, such as Consumer Reports, for advertising or trade purposes is strictly prohibited without obtaining prior written consent.
 
 If Consumer Reports learns that this policy has been violated, it will take all steps necessary to prevent the misuse of its names or of any of its materials, including legal action where appropriate.
+
+Effective Date: May 14, 2013  
+Last Updated: May 13, 2016

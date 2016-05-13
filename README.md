@@ -8,6 +8,6 @@ The [stori.es product is open source](https://github.com/stori-es/stori_es) as o
 
 ## stori.es Policy documents
 
-1. Privacy Policy
-2. Terms of Service
-3. Software as a Service Agreement
+1. [Privacy Policy](https://github.com/stori-es/stori_es-policy/blob/master/stori_es-privacy_policy.md)
+2. [Terms of Service](https://github.com/stori-es/stori_es-policy/blob/master/stori_es-terms_of_service.md)
+3. [Software as a Service Agreement](https://github.com/stori-es/stori_es-policy/blob/master/stori_es-software_as_a_service_agreement.md)

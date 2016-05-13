@@ -1,13 +1,13 @@
 # STORI.ES TERMS OF SERVICE
 
-These Terms of Service (“TOS”) describe permitted and prohibited uses by you of the stori.es platform service offered by Consumers Union of United States, Inc. (“CU”), a not-for-profit corporation.  In these TOS, “you” and “your” refer to each Recipient and its Authorized Users of the Service.  Capitalized terms in these TOS, to the extent they are not defined herein, are defined in the stori.es Beta Release Software as a Service (“SaaS”) Agreement  [ TODO ].  
+These Terms of Service (“TOS”) describe permitted and prohibited uses by you of the stori.es platform service offered by Consumers Union of United States, Inc. (“CU”), a not-for-profit corporation.  In these TOS, “you” and “your” refer to each Recipient and its Authorized Users of the Service.  Capitalized terms in these TOS, to the extent they are not defined herein, are defined in the stori.es Beta Release Software as a Service (“SaaS”) Agreement  [ https://github.com/stori-es/stori_es-policy/blob/master/stori_es-software_as_a_service_agreement.md ].  
 
 You represent and warrant that you are authorized to enter into these TOS on behalf of the Recipient.  CU is not involved in the management of your implementation of the Service in your own products and services or decisions related to the content that Recipients collect, transmit, store and publish via the Service, including the terms and conditions and policies that its Recipients apply to their members or any other End Users.  Recipients are solely responsible for their implementation of the Service and the acts and omissions of their members and End Users, and managing their use of this Service in compliance with these Terms of Service.
 
 CU may modify these TOS at any time by posting a revised version on the Service.  By using the Service, you agree to the latest version of these TOS.  If you violate these TOS or help others to do so, we may immediately suspend or terminate your use of the Service.
 
 ## 1. PRIVACY POLICY
-Please review our Privacy Policy [ TODO ], which is part of these TOS and describes how CU treats your personal information when you use the Service.
+Please review our Privacy Policy [ https://github.com/stori-es/stori_es-policy/blob/master/stori_es-privacy_policy.md ], which is part of these TOS and describes how CU treats your personal information when you use the Service.
 
 ## 2. COMMUNICATIONS
 CU may make available to you or End Users questionnaires, online forms, chat rooms, message boards, bulletin board services, email notices, newsletters, or other interactive communication facilities by means of the Service.  You are solely responsible for the Recipient Content (including any video or images) of any transmissions you or your End Users make to the Service or any materials you add to the Service (collectively the “Communications”).
@@ -93,4 +93,4 @@ You represent and warrant to CU that you and your End Users are at least eightee
 These TOS and any policies referred to herein are fully incorporated into the SaaS Agreement.  In the event that any portion of these TOS is held unenforceable, the unenforceable portion shall be construed in accordance with applicable law as nearly as possible to reflect the original intentions of the parties, and the remainder of the provisions shall remain in full force and effect.  For questions regarding these TOS please contact us via email at the <stories@cr.consumer.org> email address.
 
 Effective Date: May 14, 2013  
-Last Updated: May 5, 2016
+Last Updated: May 13, 2016
