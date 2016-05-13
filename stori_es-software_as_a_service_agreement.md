@@ -2,66 +2,26 @@
 
 This BETA RELEASE SOFTWARE AS A SERVICE AGREEMENT (this “Agreement”), entered into as of _______________ 2016 (“Effective Date”) is between CONSUMERS UNION OF UNITED STATES, INC., a New York not-for-profit corporation, doing business as Consumer Reports (“CU” or “CR”), and __________________, a ______________________ corporation (“Recipient” or “you”). In consideration of the mutual covenants contained in this Agreement, and for other good and valuable consideration, the sufficiency of which is hereby acknowledged, the parties agree as follows:
 
-1. **Definitions.**
-<ol type="a">
-<li>
-**“Affiliates”** is defined in Section 15(a).
-</li>
-<li>
-**“Authorized User”** means an employee or agent of Recipient to whom CU has explicitly granted access to a login account for the Services or the Optional Software.
-</li>
-<li>
-**“CU Marks”** means the CU trademarks, brands, logos or service marks furnished by CU for use by Recipient as part of the Service, including the stori.es mark and logo, as they may be updated by CU from time to time.
-</li>
-<li>
-**“Effective Date”** is defined in the preamble to the Agreement.
-</li>
-<li>
-**“End User”** means a storyteller, or any individual, organization, or entity using the Service or Optional Software through Recipient’s Site.
-</li>
-<li>
-**“Feedback”** is defined in Section 7(a).
-</li>
-<li>
-**“Optional Software”** is defined in Section 3.
-</li>
-<li>
-**“Permission”** means the terms and conditions governing the uses of Recipient Content (such as a story) submitted by an End User through the Service. The specific terms and conditions of Permissions are the sole responsibility of Recipient.
-</li>
-<li>
-**“Privacy Policy”** means the online privacy notice that applies to the Service currently available at [ https://github.com/stori-es/stori_es-policy/blob/master/stori_es-privacy_policy.md ] as it may be updated by CU from time to time.
-</li>
-<li>
-**“Recipient Content”** means a story or stories and all other data and information in any format, including, without limitation, text, images or other materials, created or supplied by Recipient or an End User through use of the Service or Optional Software.
-</li>
-<li>
-**“Recipient’s Site”** means Recipient’s current web site or any such successor or related internet site(s) through which Recipient uses the Service or the Optional Software.
-</li>
-<li>
-**“Service”** means CU’s stori.es platform. The Service includes the features described on the stori.es Site as CU may change such features from time to time, in its sole discretion.
-</li>
-<li>
-**“Service Failure”** means internal server errors and other connectivity issues, bugs or other failure of the Service or Optional Software to conform to the features described on the stori.es Site.
-</li>
-<li>
-**“stori.es Site”** means CU’s stori.es web site, currently located at [ http://www.stori.es/ ] or any such successor or related internet site(s) as CU may establish in its sole discretion as part of its Service.
-</li>
-<li>
-**“Support”** is defined in Section 6.
-</li>
-<li>
-**“Taxes”** are defined in Section 12.
-</li>
-<li>
-**“Term”** is defined in Section 19(a).
-</li>
-<li>
-**“Terms of Service”** means the online policy currently available at [ https://github.com/stori-es/stori_es-policy/blob/master/stori_es-terms_of_service.md ] as it may be updated by CU from time to time.
-</li>
-<li>
-**“Updates”** means any updates that CU, at its sole discretion, decides will be incorporated into the Service or the Optional Software after the Effective Date, including any upgrades, enhancements, modifications, error corrections or bug fixes, additional features and functions.
-</li>
-</ol>
+1. **Definitions.**  
+  a. **“Affiliates”** is defined in Section 15(a).  
+  b. **“Authorized User”** means an employee or agent of Recipient to whom CU has explicitly granted access to a login account for the Services or the Optional Software.  
+  c. **“CU Marks”** means the CU trademarks, brands, logos or service marks furnished by CU for use by Recipient as part of the Service, including the stori.es mark and logo, as they may be updated by CU from time to time.  
+  d. **“Effective Date”** is defined in the preamble to the Agreement.  
+  e. **“End User”** means a storyteller, or any individual, organization, or entity using the Service or Optional Software through Recipient’s Site.
+  f. **“Feedback”** is defined in Section 7(a).  
+  g. **“Optional Software”** is defined in Section 3.  
+  h. **“Permission”** means the terms and conditions governing the uses of Recipient Content (such as a story) submitted by an End User through the Service. The specific terms and conditions of Permissions are the sole responsibility of Recipient.  
+  i. **“Privacy Policy”** means the online privacy notice that applies to the Service currently available at [ https://github.com/stori-es/stori_es-policy/blob/master/stori_es-privacy_policy.md ] as it may be updated by CU from time to time.  
+  j. **“Recipient Content”** means a story or stories and all other data and information in any format, including, without limitation, text, images or other materials, created or supplied by Recipient or an End User through use of the Service or Optional Software.  
+  k. **“Recipient’s Site”** means Recipient’s current web site or any such successor or related internet site(s) through which Recipient uses the Service or the Optional Software.  
+  l. **“Service”** means CU’s stori.es platform. The Service includes the features described on the stori.es Site as CU may change such features from time to time, in its sole discretion.  
+  m. **“Service Failure”** means internal server errors and other connectivity issues, bugs or other failure of the Service or Optional Software to conform to the features described on the stori.es Site.  
+  n. **“stori.es Site”** means CU’s stori.es web site, currently located at [ http://www.stori.es/ ] or any such successor or related internet site(s) as CU may establish in its sole discretion as part of its Service.  
+  o. **“Support”** is defined in Section 6.  
+  p. **“Taxes”** are defined in Section 12.  
+  q. **“Term”** is defined in Section 19(a).  
+  r. **“Terms of Service”** means the online policy currently available at [ https://github.com/stori-es/stori_es-policy/blob/master/stori_es-terms_of_service.md ] as it may be updated by CU from time to time.  
+  s. **“Updates”** means any updates that CU, at its sole discretion, decides will be incorporated into the Service or the Optional Software after the Effective Date, including any upgrades, enhancements, modifications, error corrections or bug fixes, additional features and functions.
 
 2. **Service.** CU will provide the Service to Recipient during the Term on a royalty-free basis.
 
@@ -73,33 +33,17 @@ This BETA RELEASE SOFTWARE AS A SERVICE AGREEMENT (this “Agreement”), entere
 
 6. **Support.** CU will use commercially reasonable efforts to provide the following Support to Recipient: (i) web-based support and telephone support during its usual business hours (Monday to Friday 10 a.m. to 5 p.m. Central) to correct any Service Failures in a timely fashion; and (ii) Service Updates, at CU’s sole discretion. Recipient must incorporate Updates, and immediately delete and otherwise cease making all uses of previous versions of the Optional Software (if any), if requested by CU for any reason. Recipient is responsible for all support and maintenance (to its end users or otherwise) of Recipient’s Site other than any Support with respect to the Service.
 
-7. **Recipient Responsibilities.**
-<ol type="a">
-<li>
-**Feedback.** During the Term, Recipient agrees to serve as a beta tester for the Service and Optional Software (if any) and to provide CU with ideas, comments, criticisms, suggestions and evaluations (together “Feedback”) with respect thereto on a schedule and in a manner to be mutually agreed-upon.
-</li>
-<li>
-**Recipient Content.** Recipient is solely responsible for the development, content, operation, and use of Recipient Content. For example, you are solely responsible for: (i) the technical operation of Recipient Content, including ensuring that the calls you make to any Service are compatible with then-current APIs for that Service; (ii) compliance of Recipient Content with this Agreement, including the Terms of Service and all other policies and Schedules referenced in this Agreement; (iii) use of Recipient Content in compliance with the terms of all Permissions (iv) any claims relating to Recipient Content; and (v) properly handling and processing notices sent to you (or any of your affiliates) by any person claiming that Recipient Content violates a person’s rights, including notices pursuant to the Digital Millennium Copyright Act.
-</li>
-<li>
-**Security and Backup.** You are responsible for properly configuring and using the Service and taking your own steps to maintain appropriate security, protection and backup of Recipient Content, which may include the use of encryption technology to protect Recipient Content from unauthorized access and routine archiving of Recipient Content. Login credentials and private keys generated by the Service (such as those for an Authorized User) are for your internal use only and you may not sell, transfer or sublicense then to any other entity or person.
-</li>
-<li>
-**End User Violations.** You will be deemed to have taken any action that you permit, assist or facilitate any person or entity to take related to this Agreement, Recipient Content or use of the Service. You are responsible for End Users’ use of Recipient Content and the Service. You will ensure that all End Users comply with your obligations under this Agreement and that the terms of your agreement with each End User are consistent with this Agreement, including the Terms of Service. If you become aware of any violation of your obligations under this Agreement by an End User, you will immediately terminate such End User’s access to Recipient Content and the Service.
-</li>
-</ol>
+7. **Recipient Responsibilities.**  
+  a. **Feedback.** During the Term, Recipient agrees to serve as a beta tester for the Service and Optional Software (if any) and to provide CU with ideas, comments, criticisms, suggestions and evaluations (together “Feedback”) with respect thereto on a schedule and in a manner to be mutually agreed-upon.  
+  b. **Recipient Content.** Recipient is solely responsible for the development, content, operation, and use of Recipient Content. For example, you are solely responsible for: (i) the technical operation of Recipient Content, including ensuring that the calls you make to any Service are compatible with then-current APIs for that Service; (ii) compliance of Recipient Content with this Agreement, including the Terms of Service and all other policies and Schedules referenced in this Agreement; (iii) use of Recipient Content in compliance with the terms of all Permissions (iv) any claims relating to Recipient Content; and (v) properly handling and processing notices sent to you (or any of your affiliates) by any person claiming that Recipient Content violates a person’s rights, including notices pursuant to the Digital Millennium Copyright Act.  
+  c. **Security and Backup.** You are responsible for properly configuring and using the Service and taking your own steps to maintain appropriate security, protection and backup of Recipient Content, which may include the use of encryption technology to protect Recipient Content from unauthorized access and routine archiving of Recipient Content. Login credentials and private keys generated by the Service (such as those for an Authorized User) are for your internal use only and you may not sell, transfer or sublicense then to any other entity or person.  
+  d. **End User Violations.** You will be deemed to have taken any action that you permit, assist or facilitate any person or entity to take related to this Agreement, Recipient Content or use of the Service. You are responsible for End Users’ use of Recipient Content and the Service. You will ensure that all End Users comply with your obligations under this Agreement and that the terms of your agreement with each End User are consistent with this Agreement, including the Terms of Service. If you become aware of any violation of your obligations under this Agreement by an End User, you will immediately terminate such End User’s access to Recipient Content and the Service.
 
 8. **Privacy.** You consent to the collection, use and disclosure of information associated with the Service in accordance with the Privacy Policy. For the avoidance of doubt, Recipient’s own privacy policy applies to the collection, use and disclosure of information collected via the Recipient Site, including any End User’s personal information. You agree that use and disclosure of any personal information you collect from End Users through the Service will be consistent with the Privacy Policy, including allowing us to collect personal information from End Users to provide the Service and to collect End User tracking information consistent with the “Tracking Information Collected Through Technology” section of the Privacy Policy.
 
-9. **Ownership.**
-<ol type="a">
-<li>
-**Service and Feedback.** As between CU and Recipient, CU or its affiliates or licensors shall retain all right, title and interest in and to the Service, Optional Software, and the CU Marks, including without limitation, copyright, trademark and all other intellectual property and proprietary rights. Recipient and End Users may access and use the Service and the CU Marks solely in accordance with this Agreement. Recipient agrees to follow all guidelines for the use of the CU Marks established by CU and all goodwill associated with Recipient’s use of the CU Marks shall inure to CU. To the extent that Recipient has any rights in the Feedback it provides to CU, Recipient irrevocably assigns to CU all right, title and interest, including copyright, in such Feedback to CU. Recipient also agrees to execute any documents necessary to convey to CU all right, title and interest, including copyright, in and to the Feedback, or as necessary for CU to protect the CU marks.
-</li>
-<li>
-**Recipient Content.** As between CU and Recipient, Recipient retains all right, title and interest in and to the Recipient Content. Recipient consents to the use by and disclosure of Recipient’s Content to CU to provide the Service to Recipient and any other End Users (including pursuant to any applicable Permissions) or to respond to a request of a governmental or regulatory body (including subpoenas or court orders).
-</li>
-</ol>
+9. **Ownership.**  
+  a. **Service and Feedback.** As between CU and Recipient, CU or its affiliates or licensors shall retain all right, title and interest in and to the Service, Optional Software, and the CU Marks, including without limitation, copyright, trademark and all other intellectual property and proprietary rights. Recipient and End Users may access and use the Service and the CU Marks solely in accordance with this Agreement. Recipient agrees to follow all guidelines for the use of the CU Marks established by CU and all goodwill associated with Recipient’s use of the CU Marks shall inure to CU. To the extent that Recipient has any rights in the Feedback it provides to CU, Recipient irrevocably assigns to CU all right, title and interest, including copyright, in such Feedback to CU. Recipient also agrees to execute any documents necessary to convey to CU all right, title and interest, including copyright, in and to the Feedback, or as necessary for CU to protect the CU marks.  
+  b. **Recipient Content.** As between CU and Recipient, Recipient retains all right, title and interest in and to the Recipient Content. Recipient consents to the use by and disclosure of Recipient’s Content to CU to provide the Service to Recipient and any other End Users (including pursuant to any applicable Permissions) or to respond to a request of a governmental or regulatory body (including subpoenas or court orders).
 
 10. **Third Party Content.** Software provided by third parties (such as WordPress and Blackbaud Luminate Online) for use in conjunction with the Services or Optional Software, if any (“Third Party Content”) is made available under separate terms and conditions, including separate fees and charges. Your use of any Third Party Content is solely at your own risk.
 
@@ -112,15 +56,9 @@ Neither Recipient nor any End User may use the Service or the Optional Software 
 
 14. **Disclaimer of Warranties.** ALL PRODUCTS AND SERVICES PROVIDED BY OR ON BEHALF OF CU UNDER THIS AGREEMENT INCLUDING BUT NOT LIMITED TO THE SERVICES AND THE OPTIONAL SOFTWARE ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. TO THE FULLEST EXTENT PERMISSIBLE BY LAW, CU AND ITS AFFILIATES DISCLAIM ALL WARRANTIES AND MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, REGARDING THE SERVICE AND THE OPTIONAL SOFTWARE OR THE THIRD PARTY CONTENT INCLUDING BUT NOT LIMITED TO ANY EXPRESS OR IMPLIED WARRANTY OF MERCHANTABILITY, NONINFRINGEMENT, QUIET ENJOYMENT, FITNESS FOR A PARTICULAR PURPOSE, DESIGN, CONDITION, AND/OR QUALITY OR ANY WARRANTIES ARISING OUT OF ANY COURSE OF DEALING OR USAGE OF TRADE. FURTHER, CU AND ITS AFFILIATES MAKE NO WARRANTY, GUARANTY, OR REPRESENTATION THAT THE SERVICE, OPTIONAL SOFTWARE OR THIRD PARTY CONTENT WILL BE FREE FROM ERRORS OR THAT THEIR USE WILL BE UNINTERRUPTED OR ERROR-FREE, FREE FROM VIRUSES OR OTHER HAMRFUL COMPONENTS, THAT ANY  ERRORS WILL BE CORRECTED, OR THAT ANY CONTENT, INCLUDING RECIPIENT CONTENT OR THE THIRD PARTY CONTENT, WILL BE SECURE OR NOT OTHERWISE LOST OR DAMAGED, OR MAKE ANY OTHER REPRESENTATIONS REGARDING THE USE, OR THE RESULTS OF THE USE, OF THE SERVICE AND THE OPTIONAL SOFTWARE IN TERMS OF SUITABILITY FOR RECIPIENT’S BUSINESS OR OPERATIONAL REQUIREMENTS.
 
-15. **Indemnification.**
-<ol type="a">
-<li>
-**Indemnification.** Recipient shall indemnify, hold harmless, and if requested, defend CU, its affiliates, and their respective officers, directors, employees and agents (together “Affiliates”) and licensors from and against any claims, damages, losses, liabilities, costs and expenses (including reasonable attorneys’ fees) arising out of or relating to any third-party claim concerning: (i) Recipient’s or any End User’s use of the Services and the Optional Software (including any activities under your account and use by your employees and personnel); (ii) any breach or alleged breach of this Agreement (including the Terms of Service) or violation of applicable law by Recipient or any End User; (iii) Recipient’s Content or the combination of Recipient Content with other applications, content or processes, including any claim involving alleged infringement or misappropriation of third-party rights by Recipient Content or by the use, development, design, production, advertising or marketing of Recipient Content; or (iv) a dispute between Recipient and any End User. If CU or its Affiliates are obligated to respond to a third-party subpoena or other compulsory legal order or process described above, you will also reimburse us for reasonable attorneys’ fees, as well as our employees’ and contractors’ time and materials spent responding to the third-party subpoena or other compulsory legal order or process at our then-current hourly rates.
-</li>
-<li>
-**Indemnification Procedure.** CU will promptly notify Recipient of any claim subject to Section 15(a), but CU’s failure to promptly notify you will only affect your obligations under Section 15(a) to the extent that our failure materially prejudices your ability to defend the claim. Recipient may: (a) use counsel of your own choosing (subject to our written consent) to defend against any claim; and (b) settle the claim as you deem appropriate, provided that you do not settle or dispose of any claims in a manner that adversely effects CU’s interests without our written consent. CU may also assume control of the defense and settlement of the claim at any time.
-</li>
-</ol>
+15. **Indemnification.**  
+  a. **Indemnification.** Recipient shall indemnify, hold harmless, and if requested, defend CU, its affiliates, and their respective officers, directors, employees and agents (together “Affiliates”) and licensors from and against any claims, damages, losses, liabilities, costs and expenses (including reasonable attorneys’ fees) arising out of or relating to any third-party claim concerning: (i) Recipient’s or any End User’s use of the Services and the Optional Software (including any activities under your account and use by your employees and personnel); (ii) any breach or alleged breach of this Agreement (including the Terms of Service) or violation of applicable law by Recipient or any End User; (iii) Recipient’s Content or the combination of Recipient Content with other applications, content or processes, including any claim involving alleged infringement or misappropriation of third-party rights by Recipient Content or by the use, development, design, production, advertising or marketing of Recipient Content; or (iv) a dispute between Recipient and any End User. If CU or its Affiliates are obligated to respond to a third-party subpoena or other compulsory legal order or process described above, you will also reimburse us for reasonable attorneys’ fees, as well as our employees’ and contractors’ time and materials spent responding to the third-party subpoena or other compulsory legal order or process at our then-current hourly rates.  
+  b. **Indemnification Procedure.** CU will promptly notify Recipient of any claim subject to Section 15(a), but CU’s failure to promptly notify you will only affect your obligations under Section 15(a) to the extent that our failure materially prejudices your ability to defend the claim. Recipient may: (a) use counsel of your own choosing (subject to our written consent) to defend against any claim; and (b) settle the claim as you deem appropriate, provided that you do not settle or dispose of any claims in a manner that adversely effects CU’s interests without our written consent. CU may also assume control of the defense and settlement of the claim at any time.
 
 16. **Confidential Information.** Each party acknowledges that in the performance of this Agreement it may have access or be exposed to private or confidential, non-public information of the other party, or the other party’s parent company, subsidiaries and affiliates, and its and their customers and suppliers, including but not limited to, trade secrets, marketing and business plans, customer information and technical specifications and information, finances and other business affairs or third party information that each party is obligated to keep confidential (the “Confidential Information”). Any passwords and user names given or created under this Agreement shall be considered Confidential Information. Each party agrees that: (a) all Confidential Information shall remain the exclusive property of the owner thereof; and (b) it shall maintain, and shall cause its employees, subcontractors and other agents to maintain, the confidentiality and secrecy of the other party’s Confidential Information. Notwithstanding the foregoing, Confidential Information shall not include any information to the extent it (i) is or becomes a part of the public domain through no act or omission of the receiving party, (ii) is rightfully in the receiving party’s possession, without obligation of confidentiality with respect thereto, prior to the disclosing party’s disclosure, (iii) is lawfully disclosed to the receiving party by a third party having no obligation of confidentiality with respect thereto, (iv) is independently developed without access or reference to, or use of, the disclosing party’s Confidential Information, (v) is released from confidential treatment by written consent of the disclosing party thereof; or (vi) is required to be disclosed by applicable law or by request from a governmental agency, provided that the receiving party gives the disclosing party prior written notice of such disclosure such that the disclosing party can obtain an appropriate protective order or similar remedy if it so desires.
 
@@ -132,53 +70,22 @@ NEITHER CU AND ITS AFFILIATES, ANY THIRD-PARTY PROVIDER OF TELECOMMUNICATIONS OR
 IN NO EVENT SHALL CU OR ITS AFFILIATES, PROVIDERS OR LICENSORS BE LIABLE FOR COMPENSATION, REIMBURSEMENT OR OTHER DAMAGES OF ANY KIND ARISING OUT OF OR IN CONNECTION WITH (A) RECIPIENT’S OR AN END USER’S INABILITY TO USE THE SERVICES AND OPTIONAL SOFTWARE, INCLUDING AS A RESULT OF (I) ANY TERMINATION OR SUSPENSION OF THIS AGREEMENT OR YOUR USE OF OR ACCESS TO THE SERVICES AND OPTIONAL SOFTWARE; (II) CU’S DISCONTINUATION OF ANY OR ALL OF THE SERVICES AND OPTIONAL SOFTWARE; OR (III) ANY UNANTICIPATED OR UNSCHEDULED DOWNTIME OF ALL OR A PORTION OF THE SERVICES AND OPTIONAL SOFTWARE FOR ANY REASON INCLUDING AS A RESULT OF POWER OUTAGES, SYSTEM FAILURES OR OTHER INTERRUPTIONS; (B) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES AND OPTIONAL SOFTWARE (C) ANY INVESTMENTS, EXPENDITURES, OR COMMITMENTS BY RECIPIENT IN CONNECTION WITH THIS AGREEMENT OR YOUR USE OF OR ACCESS TO THE SERVICES AND OPTIONAL SOFTWARE; OR (D) ANY UNAUTHORIZED ACCESS TO, ALTERATION OF, OR THE DELETION, DESTRUCTION, DAMAGE, LOSS OR FAILURE TO STORE ANY OF THE  RECIPIENT CONTENT OR OTHER DATA.  
 IN NO EVENT SHALL CU’S OR ITS AFFILIATE’S AGGREGATE LIABILITY ARISING FROM OR UNDER THIS AGREEMENT EXCEED THE AMOUNT, IF ANY, ACTUALLY PAID BY RECIPIENT UNDER THIS AGREEMENT FOR THE SERVICE THAT GAVE RISE TO THE CLAIM DURING THE 12 MONTHS PRECEDING THE CLAIM, AND RECIPIENT HEREBY RELEASES CU AND ITS AFFILIATES FROM ANY AND ALL OBLIGATIONS, LIABILITIES AND CLAIMS IN EXCESS OF THIS LIMITATION.
 
-19. **Term and Termination.**
-<ol type="a">
-<li>
-**Termination.** This Agreement begins on the Effective Date and ends upon termination in accordance with this Section 19(a) (“Term”). Recipient may terminate this Agreement for any reason by providing CU fifteen (15) days’ written notice. In addition to any other rights set forth herein, CU may terminate this Agreement or temporarily suspend Recipient’s or any End User’s right to access or use any portion of the Service or Optional Software immediately upon written notice to you for any reason, including any material default or breach of this Agreement, including the Terms of Service. This Agreement shall terminate automatically in part or in whole, as applicable, in the event that CU, in its sole discretion, ceases to supply the Service or Optional Software or a portion thereof to third parties.
-</li>
-<li>
-**Effect of Termination.** Upon termination of this Agreement for any reason; (i) Recipient shall immediately remove the Optional Software (if any) and return to CU all copies, documents, notes and other tangible and intangible embodiments of the Optional Software, or, if instructed by CU, destroy all copies of the Optional Software in your possession; and (ii) each party shall return all documents, notes and other tangible and intangible embodiments of the other party’s Confidential Information. Unless CU terminates this Agreement for cause, upon termination, CU will, during the twenty (20) days following termination, (i) not erase any of Recipient Content as a result of the termination; and (ii) use reasonable efforts to provide you with the same post-termination data retrieval assistance that CU generally makes available to its other beta customers.
-</li>
-</ol>
+19. **Term and Termination.**  
+  a. **Termination.** This Agreement begins on the Effective Date and ends upon termination in accordance with this Section 19(a) (“Term”). Recipient may terminate this Agreement for any reason by providing CU fifteen (15) days’ written notice. In addition to any other rights set forth herein, CU may terminate this Agreement or temporarily suspend Recipient’s or any End User’s right to access or use any portion of the Service or Optional Software immediately upon written notice to you for any reason, including any material default or breach of this Agreement, including the Terms of Service. This Agreement shall terminate automatically in part or in whole, as applicable, in the event that CU, in its sole discretion, ceases to supply the Service or Optional Software or a portion thereof to third parties.  
+  b. **Effect of Termination.** Upon termination of this Agreement for any reason; (i) Recipient shall immediately remove the Optional Software (if any) and return to CU all copies, documents, notes and other tangible and intangible embodiments of the Optional Software, or, if instructed by CU, destroy all copies of the Optional Software in your possession; and (ii) each party shall return all documents, notes and other tangible and intangible embodiments of the other party’s Confidential Information. Unless CU terminates this Agreement for cause, upon termination, CU will, during the twenty (20) days following termination, (i) not erase any of Recipient Content as a result of the termination; and (ii) use reasonable efforts to provide you with the same post-termination data retrieval assistance that CU generally makes available to its other beta customers.
 
-20. **Miscellaneous**
-<ol type="a">
-<li>
-**Modifications.** CU may modify the Privacy Policy, the Terms of Service and any other policies referred to in this Agreement and in the attached Schedule at any time by posting revised versions on the stori.es Service or by otherwise notifying you in accordance with Section 20(b) below. The modified terms will become effective upon posting, or if we notify you by email, as stated in the email message. By continuing to use the Service and the Optional Software following notice of any modification to these policies you agree to be bound by the modified terms. The terms of this Agreement (except for the Privacy Policy, Terms of Service and other policies referred to in this Section) may not be amended except by written instrument executed by both parties.
-</li>
-<li>
-**Notices.** We may provide any notice to you under this Agreement by: (i) posting a notice on the stori.es Site; or (ii) sending a message to the email address then associated with an Authorized User. Notices we provide by posting on the stori.es Site will be effective upon posting and notices we provide by email will be effective when we send the email. You will be deemed to have received any email sent to the email address then associated with an Authorized User when we send the email, whether or not you actually receive the email. Recipient may provide notice to CU under this Agreement in writing and shall be sent by certified mail, return receipt requested, or by overnight courier service, to Consumers Union of United States, Inc., 101 Truman Avenue, Yonkers, NY 10703 Attn: Heath Grayson, Associate General Counsel. Unless otherwise provided, such  notice shall be effective on the date it is officially recorded as delivered by return receipt or equivalent.
-</li>
-<li>
-**Entire Agreement; Amendment.** This Agreement and any policies referred to herein (including the Terms of Service and the Privacy Policy), and its Schedule, which are all incorporated in this Agreement in their entirety, supersedes all prior agreements, arrangements and undertakings between the parties and constitutes the entire agreement between the parties relating to its subject matter. If the terms of this Agreement are inconsistent with the terms contained in any policy referred to herein, the terms of the Agreement will control.
-</li>
-<li>
-**Assignment.** Recipient shall not assign this Agreement in whole or in part, including delegating or sublicensing any of your rights, without the prior written consent of CU and any assignment in violation of the foregoing will be null and void. Subject to the foregoing, this Agreement will be binding on, and inure to the benefit of the parties and their respective successors and assigns.
-</li>
-<li>
-**Force Majeure.** CU and its Affiliates will not be liable for any delay or failure to perform any obligation under this Agreement where the delay or failure results from any cause beyond our reasonable control, including acts of God, labor disputes or other industrial disturbances, systemic electrical, telecommunications, or other utility failures, earthquake, storms or other elements of nature, blockages, embargoes, riots, acts or orders of government, acts of terrorism, or war.
-</li>
-<li>
-**Relationship of the Parties; No Third Party Beneficiaries.** Notwithstanding anything to the contrary, this Agreement does not, and shall not be deemed to, constitute a partnership or joint venture between the parties. The parties are independent contractors and neither party nor any of their respective directors, officers, employees or agents shall, by virtue of the performance of their obligations under this Agreement, be deemed to be an agent or employee of the other or have the authority to bind the other. This Agreement does not create any third party beneficiary rights in any individual or entity that is not a party to this Agreement.
-</li>
-<li>
-**Injunctive Relief.** It is expressly agreed that any material breach of Sections 11, 16 and 17 of this Agreement by Recipient may cause irreparable harm to CU and that a remedy at law would be inadequate. Therefore, in addition to any and all remedies available at law, CU shall be entitled to injunctive relief against Recipient in the event of any threatened or actual violation of Sections 11, 16 and 17 without the necessity of posting any bond.
-</li>
-<li>
-**Survival of Certain Provisions.** Notwithstanding the termination or expiration of this Agreement, the provisions of Sections 1 (Definitions), 7(b) (Recipient Content), 13 (Representations and Warranties), 14 (Disclaimer of Warranties), 15 (Indemnification), 16 (Confidential Information), 17 (No Commercial Use Policy), 18 (Limitation of Liability), 19(b) (Effect of Termination) (and any other provision that by its terms contemplates survival) shall survive and continue to bind the parties and their legal representatives, successors and permitted assigns.
-</li>
-<li>
-**No Waiver/Severability.** The failure by CU to enforce any provision of this Agreement will not constitute a present or future waiver of such provision nor limit our right to enforce such provision at a later time. All waivers by CU must be in writing to be effective. If any portion of this Agreement is held to be invalid or unenforceable, the remaining portions of this Agreement will remain in full force and effect. Any invalid or unenforceable portions will be interpreted to effect the intent of the original portion. If such construction is not possible, the invalid or unenforceable portion will be severed from this Agreement but the rest of the Agreement will remain in full force and effect.
-</li>
-<li>
-**Governing Law.** This Agreement shall be governed by, and construed in accordance with, the laws of the State of New York applicable to contracts made and performed in New York without regard to conflict of laws principles. The parties hereto submit to the exclusive jurisdiction of the state and federal courts located in the State and County of New York, for the purpose of resolving any dispute relating to the subject matter of this Agreement or the relationship between the parties pursuant to this Agreement.
-</li>
-<li>
-**Announcements.** Recipient shall not issue any press releases or other public announcement or materials regarding this Agreement or the relationship between us and you without the prior written consent of CU in each instance.
-</li>
-</ol>
-
+20. **Miscellaneous**  
+  a. **Modifications.** CU may modify the Privacy Policy, the Terms of Service and any other policies referred to in this Agreement and in the attached Schedule at any time by posting revised versions on the stori.es Service or by otherwise notifying you in accordance with Section 20(b) below. The modified terms will become effective upon posting, or if we notify you by email, as stated in the email message. By continuing to use the Service and the Optional Software following notice of any modification to these policies you agree to be bound by the modified terms. The terms of this Agreement (except for the Privacy Policy, Terms of Service and other policies referred to in this Section) may not be amended except by written instrument executed by both parties.  
+  b. **Notices.** We may provide any notice to you under this Agreement by: (i) posting a notice on the stori.es Site; or (ii) sending a message to the email address then associated with an Authorized User. Notices we provide by posting on the stori.es Site will be effective upon posting and notices we provide by email will be effective when we send the email. You will be deemed to have received any email sent to the email address then associated with an Authorized User when we send the email, whether or not you actually receive the email. Recipient may provide notice to CU under this Agreement in writing and shall be sent by certified mail, return receipt requested, or by overnight courier service, to Consumers Union of United States, Inc., 101 Truman Avenue, Yonkers, NY 10703 Attn: Heath Grayson, Associate General Counsel. Unless otherwise provided, such  notice shall be effective on the date it is officially recorded as delivered by return receipt or equivalent.  
+  c. **Entire Agreement; Amendment.** This Agreement and any policies referred to herein (including the Terms of Service and the Privacy Policy), and its Schedule, which are all incorporated in this Agreement in their entirety, supersedes all prior agreements, arrangements and undertakings between the parties and constitutes the entire agreement between the parties relating to its subject matter. If the terms of this Agreement are inconsistent with the terms contained in any policy referred to herein, the terms of the Agreement will control.  
+  d. **Assignment.** Recipient shall not assign this Agreement in whole or in part, including delegating or sublicensing any of your rights, without the prior written consent of CU and any assignment in violation of the foregoing will be null and void. Subject to the foregoing, this Agreement will be binding on, and inure to the benefit of the parties and their respective successors and assigns.  
+  e. **Force Majeure.** CU and its Affiliates will not be liable for any delay or failure to perform any obligation under this Agreement where the delay or failure results from any cause beyond our reasonable control, including acts of God, labor disputes or other industrial disturbances, systemic electrical, telecommunications, or other utility failures, earthquake, storms or other elements of nature, blockages, embargoes, riots, acts or orders of government, acts of terrorism, or war.  
+  f. **Relationship of the Parties; No Third Party Beneficiaries.** Notwithstanding anything to the contrary, this Agreement does not, and shall not be deemed to, constitute a partnership or joint venture between the parties. The parties are independent contractors and neither party nor any of their respective directors, officers, employees or agents shall, by virtue of the performance of their obligations under this Agreement, be deemed to be an agent or employee of the other or have the authority to bind the other. This Agreement does not create any third party beneficiary rights in any individual or entity that is not a party to this Agreement.  
+  g. **Injunctive Relief.** It is expressly agreed that any material breach of Sections 11, 16 and 17 of this Agreement by Recipient may cause irreparable harm to CU and that a remedy at law would be inadequate. Therefore, in addition to any and all remedies available at law, CU shall be entitled to injunctive relief against Recipient in the event of any threatened or actual violation of Sections 11, 16 and 17 without the necessity of posting any bond.  
+  h. **Survival of Certain Provisions.** Notwithstanding the termination or expiration of this Agreement, the provisions of Sections 1 (Definitions), 7(b) (Recipient Content), 13 (Representations and Warranties), 14 (Disclaimer of Warranties), 15 (Indemnification), 16 (Confidential Information), 17 (No Commercial Use Policy), 18 (Limitation of Liability), 19(b) (Effect of Termination) (and any other provision that by its terms contemplates survival) shall survive and continue to bind the parties and their legal representatives, successors and permitted assigns.  
+  i. **No Waiver/Severability.** The failure by CU to enforce any provision of this Agreement will not constitute a present or future waiver of such provision nor limit our right to enforce such provision at a later time. All waivers by CU must be in writing to be effective. If any portion of this Agreement is held to be invalid or unenforceable, the remaining portions of this Agreement will remain in full force and effect. Any invalid or unenforceable portions will be interpreted to effect the intent of the original portion. If such construction is not possible, the invalid or unenforceable portion will be severed from this Agreement but the rest of the Agreement will remain in full force and effect.  
+  j. **Governing Law.** This Agreement shall be governed by, and construed in accordance with, the laws of the State of New York applicable to contracts made and performed in New York without regard to conflict of laws principles. The parties hereto submit to the exclusive jurisdiction of the state and federal courts located in the State and County of New York, for the purpose of resolving any dispute relating to the subject matter of this Agreement or the relationship between the parties pursuant to this Agreement.  
+  k. **Announcements.** Recipient shall not issue any press releases or other public announcement or materials regarding this Agreement or the relationship between us and you without the prior written consent of CU in each instance.
 
 ## Schedule A
 ### Consumer Reports No Commercial Use Policy
